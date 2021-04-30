@@ -11,7 +11,7 @@
     <name>sample-spring-rest-api</name>
     <description>Sample Spring REST API includes security, user, and organization management endpoints.</description>
     <developers>
-        <developer>
+    	<developer>
             <id>mzebib</id>
             <name>Steve Zebib</name>
             <email>steve.zebib@gmail.com</email>
@@ -117,5 +117,4 @@
             </plugin>
         </plugins>
     </build>
-
 </project>
