@@ -6,7 +6,7 @@
 - [Endpoints](#endpoints)
 
 ## Overview
-The purpose of this REST API is to demonstrate a Spring boot application and its various features. This sample Provisioning API provides security, user, and organization management.
+The purpose of this REST API is to demonstrate a Spring boot application and its various features. This sample REST API provides security, user, and organization management.
 
 This project contains the following:
 - Configuration (Application, Security, Swagger)
